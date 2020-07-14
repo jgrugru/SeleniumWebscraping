@@ -1,0 +1,12 @@
+{
+    "files.exclude": {
+        "**/__pycache__/*": true,
+        "**/__pycache__/": true,
+        "**/.pytest_cache/": true,
+        "**/.vscode/*": true,
+        "**/.vscode": true,
+        "**/.gitignore": true,
+        "**/chromedriver.exe": true,
+        "**/debug.log/": true,
+    }
+}
